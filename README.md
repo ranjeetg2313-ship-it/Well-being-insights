@@ -1,4 +1,5 @@
-Well-Being Insights
+**Well-Being Insights**
+
 A survey-based analytics project focused on understanding happiness and well-being across different demographic and socio-economic factors. 
 The dashboard visualizes responses based on geographical location, living standards, age, economic condition, marital status, and gender, providing meaningful insights into patterns of happiness.
 
